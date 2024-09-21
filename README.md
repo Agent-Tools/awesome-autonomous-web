@@ -42,7 +42,7 @@ Tools that convert natural language prompts into web interactions, allowing AI a
 
 - **[Axiom.ai](https://axiom.ai/)**
 
-- **[Dendrite](https://dendrite.systems/)**
+- **[Dendrite](https://dendrite.systems/)** (Private beta)
 
 - **[Browse.ai](https://browse.ai/)**
 
