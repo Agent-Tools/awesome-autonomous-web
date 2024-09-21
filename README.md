@@ -60,7 +60,7 @@ These tools use image models and computer vision to interact with websites, simu
 
 AI-powered web crawlers designed to extract information and interact with websites.
 
-- **[Reworkd](https://www.reworkd.ai/)** (Private Beta)
+- **[Reworkd](https://www.reworkd.ai/)** (Private beta)
 
 - **[FireCrawl](https://www.firecrawl.dev/)**
 
