@@ -24,6 +24,8 @@ AI copilots that can autonomously navigate and interact with websites.
 
 - **[Multion](https://www.multion.ai/)**
 
+- **[Jace.AI](https://www.jace.ai/)** (Waitlist)
+
 ## 📝 AI Web automation tools
 
 Tools that convert natural language prompts into web interactions, allowing AI agents to automate tasks.
