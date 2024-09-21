@@ -58,6 +58,10 @@ Tools that convert natural language prompts into web interactions, allowing AI a
 
 - **[WebArena Leaderboard](https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ/edit?gid=0#gid=0)**
 
+- **[WebCanvas](https://github.com/iMeanAI/WebCanvas)**
+
+- **[WorkArena](https://github.com/ServiceNow/WorkArena)**
+
 ## 🖼️ Visual web automation tools
 
 These tools use image models and computer vision to interact with websites, simulating human-like actions.
