@@ -40,6 +40,8 @@ Tools that convert natural language prompts into web interactions, allowing AI a
 
 - **[Skyvern-AI](https://github.com/Skyvern-AI/skyvern)** - control a web browser through natural language instructions using **visual** language models
 
+- **[Tarsier](https://github.com/reworkd/tarsier)** by Reworkd
+
 ### Paid Platforms
 
 - **[Axiom.ai](https://axiom.ai/)**
