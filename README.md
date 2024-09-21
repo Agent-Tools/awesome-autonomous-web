@@ -48,6 +48,12 @@ Tools that convert natural language prompts into web interactions, allowing AI a
 
 - **[ZeroStep](https://zerostep.com/)** - AI based testing tool
 
+## 🔬 Web Agent Benchmarks
+
+- **[WebArena](https://github.com/web-arena-x/webarena)**
+
+- **[WebArena Leaderboard](https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ/edit?gid=0#gid=0)**
+
 ## 🖼️ Visual web automation tools
 
 These tools use image models and computer vision to interact with websites, simulating human-like actions.
@@ -55,6 +61,7 @@ These tools use image models and computer vision to interact with websites, simu
 - **[VimGPT](https://github.com/ishan0102/vimGPT/)**
 
 - **[Skyvern-AI](https://github.com/Skyvern-AI/skyvern)**
+
 
 ## 🕷️ AI Web Crawlers
 
