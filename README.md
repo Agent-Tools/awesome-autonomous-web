@@ -24,6 +24,38 @@ AI copilots that can autonomously navigate and interact with websites.
 
 - **[Multion](https://www.multion.ai/)**
 
+## 📝 AI Web automation tools
+
+Tools that convert natural language prompts into web interactions, allowing AI agents to automate tasks.
+
+### Open Source
+
+- **[WebAgent](https://github.com/xlang-ai/OpenAgents/tree/main/real_agents/web_agent)** by OpenAgents
+
+- **[Agent-E](https://github.com/EmergenceAI/Agent-E)**
+
+- **[LaVague](https://github.com/lavague-ai/LaVague)** - control a web browser through natural language instructions using **text** language models
+
+- **[Skyvern-AI](https://github.com/Skyvern-AI/skyvern)** - control a web browser through natural language instructions using **visual** language models
+
+### Paid Platforms
+
+- **[Axiom.ai](https://axiom.ai/)**
+
+- **[Dendrite](https://dendrite.systems/)**
+
+- **[Browse.ai](https://browse.ai/)**
+
+- **[ZeroStep](https://zerostep.com/)** - AI based testing tool
+
+## 🖼️ Visual web automation tools
+
+These tools use image models and computer vision to interact with websites, simulating human-like actions.
+
+- **[VimGPT](https://github.com/ishan0102/vimGPT/)**
+
+- **[Skyvern-AI](https://github.com/Skyvern-AI/skyvern)**
+
 ## 🕷️ AI Web Crawlers
 
 AI-powered web crawlers designed to extract information and interact with websites.
@@ -31,20 +63,6 @@ AI-powered web crawlers designed to extract information and interact with websit
 - **[Reworkd](https://www.reworkd.ai/)** (Private Beta)
 
 - **[FireCrawl](https://www.firecrawl.dev/)**
-
-## 📝  Text-to-web-action tools
-
-Tools that convert natural language prompts into web interactions, allowing AI agents to automate tasks.
-
-- **[WebAgent](https://github.com/xlang-ai/OpenAgents/tree/main/real_agents/web_agent)** by OpenAgents
-
-- **[ZeroStep](https://zerostep.com/)**
-
-## 🖼️ Visual-web-action tools
-
-These tools use image models and computer vision to interact with websites, simulating human-like actions.
-
-- **[VimGPT](https://github.com/ishan0102/vimGPT/)**
 
 ## 🛠️ Graphql consumption tools
 
@@ -69,4 +87,3 @@ Tools that allow AI agents to bypass captchas, enabling smooth web interactions 
 ---
 
 Feel free to add more tools or update descriptions as new tools emerge in this exciting space!
-
