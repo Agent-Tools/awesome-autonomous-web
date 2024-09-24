@@ -60,6 +60,7 @@ These tools use image models and computer vision to interact with websites, simu
 
 AI-powered web crawlers designed to extract information and interact with websites.
 
+- **[FetchFox](https://fetchfoxai.com/)** Free
 - **[Reworkd](https://www.reworkd.ai/)** (Private beta) - Paid
 - **[FireCrawl](https://www.firecrawl.dev/)** - Paid
 
