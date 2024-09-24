@@ -6,25 +6,22 @@ A curated list of tools that empower AI agents to interact with the web efficien
 
 Cloud-hosted browsers designed for AI agents to interact with web pages seamlessly.
 
-- **[Browserless](https://www.browserless.io/)**
-
-- **[BrowserBase](https://www.browserbase.com/)**
-
-- **[APIFY](https://apify.com/)**
+- **[Browserless](https://www.browserless.io/)** - Paid
+- **[BrowserBase](https://www.browserbase.com/)** - Paid
+- **[APIFY](https://apify.com/)** - Paid
 
 ## 🪪 Web Authentication
 
 Tools that enable AI agents to access websites requiring authentication, including login systems and secure pages.
 
-- **[Anon](https://www.anon.com/)** (Private beta)
+- **[Anon](https://www.anon.com/)** (Private beta) - Paid
 
 ## 👤 Web Copilots
 
 AI copilots that can autonomously navigate and interact with websites.
 
-- **[Multion](https://www.multion.ai/)**
-
-- **[Jace.AI](https://www.jace.ai/)** (Waitlist)
+- **[Multion](https://www.multion.ai/)** - Paid
+- **[Jace.AI](https://www.jace.ai/)** (Waitlist) - Paid
 
 ## 📝 AI Web automation tools
 
@@ -32,72 +29,58 @@ Tools that convert natural language prompts into web interactions, allowing AI a
 
 ### Open Source
 
-- **[WebAgent](https://github.com/xlang-ai/OpenAgents/tree/main/real_agents/web_agent)** by OpenAgents
-
-- **[Agent-E](https://github.com/EmergenceAI/Agent-E)**
-
-- **[LaVague](https://github.com/lavague-ai/LaVague)** - control a web browser through natural language instructions using **text** language models
-
-- **[Skyvern-AI](https://github.com/Skyvern-AI/skyvern)** - control a web browser through natural language instructions using **visual** language models
-
-- **[Tarsier](https://github.com/reworkd/tarsier)** by Reworkd
+- **[WebAgent](https://github.com/xlang-ai/OpenAgents/tree/main/real_agents/web_agent)** by OpenAgents - Open-source
+- **[Agent-E](https://github.com/EmergenceAI/Agent-E)** - Open-source
+- **[LaVague](https://github.com/lavague-ai/LaVague)** - control a web browser through natural language instructions using **text** language models - Open-source
+- **[Skyvern-AI](https://github.com/Skyvern-AI/skyvern)** - control a web browser through natural language instructions using **visual** language models - Open-source
+- **[Tarsier](https://github.com/reworkd/tarsier)** by Reworkd - Open-source
 
 ### Paid Platforms
 
-- **[Axiom.ai](https://axiom.ai/)**
-
-- **[Dendrite](https://dendrite.systems/)** (Private beta)
-
-- **[Browse.ai](https://browse.ai/)**
-
-- **[ZeroStep](https://zerostep.com/)** - AI based testing tool
+- **[Axiom.ai](https://axiom.ai/)** - Paid
+- **[Dendrite](https://dendrite.systems/)** (Private beta) - Paid
+- **[Browse.ai](https://browse.ai/)** - Paid
+- **[ZeroStep](https://zerostep.com/)** - AI based testing tool - Paid
 
 ## 🔬 Web Agent Benchmarks
 
-- **[WebArena](https://github.com/web-arena-x/webarena)**
-
-- **[WebArena Leaderboard](https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ/edit?gid=0#gid=0)**
-
-- **[WebCanvas](https://github.com/iMeanAI/WebCanvas)**
-
-- **[WorkArena](https://github.com/ServiceNow/WorkArena)**
+- **[WebArena](https://github.com/web-arena-x/webarena)** - Open-source
+- **[WebArena Leaderboard](https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ/edit?gid=0#gid=0)** - Open-source
+- **[WebCanvas](https://github.com/iMeanAI/WebCanvas)** - Open-source
+- **[WorkArena](https://github.com/ServiceNow/WorkArena)** - Open-source
 
 ## 🖼️ Visual web automation tools
 
 These tools use image models and computer vision to interact with websites, simulating human-like actions.
 
-- **[VimGPT](https://github.com/ishan0102/vimGPT/)**
-
-- **[Skyvern-AI](https://github.com/Skyvern-AI/skyvern)**
-
+- **[VimGPT](https://github.com/ishan0102/vimGPT/)** - Open-source
+- **[Skyvern-AI](https://github.com/Skyvern-AI/skyvern)** - Open-source
 
 ## 🕷️ AI Web Crawlers
 
 AI-powered web crawlers designed to extract information and interact with websites.
 
-- **[Reworkd](https://www.reworkd.ai/)** (Private beta)
-
-- **[FireCrawl](https://www.firecrawl.dev/)**
+- **[Reworkd](https://www.reworkd.ai/)** (Private beta) - Paid
+- **[FireCrawl](https://www.firecrawl.dev/)** - Paid
 
 ## 🛠️ Graphql consumption tools
 
 APIs and tools that assist in interacting with GraphQL endpoints for efficient data querying.
 
-- **[GraphQL.Chat](https://graphql.chat/)**
-
-- **[GQLPT.dev](https://gqlpt.dev/)**
+- **[GraphQL.Chat](https://graphql.chat/)** - Free closed source
+- **[GQLPT.dev](https://gqlpt.dev/)** - Free closed source
 
 ## 🔍 Web search tools
 
 AI-powered tools designed for intelligent web searches and automated information gathering.
 
-- **[Serper.dev](https://serper.dev/)**
+- **[Serper.dev](https://serper.dev/)** - Paid
 
 ## 🔓 Captcha solving tools
 
 Tools that allow AI agents to bypass captchas, enabling smooth web interactions even on restricted websites.
 
-- **[Capsolver](https://www.capsolver.com/)** - Captcha solving browser extension
+- **[Capsolver](https://www.capsolver.com/)** - Captcha solving browser extension - Paid
 
 ---
 
