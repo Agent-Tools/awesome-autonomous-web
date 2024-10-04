@@ -4,10 +4,10 @@ A curated list of tools that empower AI agents to interact with the web efficien
 
 ## 💻 Browsers for AI
 
-Cloud-hosted browsers designed for AI agents to interact with web pages seamlessly.
+Cloud-hosted browsers are designed for AI agents to interact with web pages seamlessly.
 
 - **[Finic](https://github.com/finic-ai/finic)** - Open Source
-- **[Browserless](https://www.browserless.io/)** - Paid
+- **[Browserless](https://github.com/browserless/browserless)** - Open Source & Paid
 - **[BrowserBase](https://www.browserbase.com/)** - Paid
 - **[APIFY](https://apify.com/)** - Paid
 
@@ -60,7 +60,7 @@ These tools use image models and computer vision to interact with websites, simu
 
 ## 🕷️ AI Web Crawlers
 
-AI-powered web crawlers designed to extract information and interact with websites.
+AI-powered web crawlers are designed to extract information and interact with websites.
 
 - **[Reworkd](https://www.reworkd.ai/)** (Private beta) - Paid
 - **[FireCrawl](https://www.firecrawl.dev/)** - Paid
