@@ -6,10 +6,10 @@ A curated list of tools that empower AI agents to interact with the web efficien
 
 Cloud-hosted browsers designed for AI agents to interact with web pages seamlessly.
 
-- **[Finic](https://github.com/finic-ai/finic)** - Open Source
+- **[Anchor Browser](https://anchorbrowser.io/)** - Paid
+- **[APIFY](https://apify.com/)** - Paid
 - **[Browserless](https://www.browserless.io/)** - Paid
 - **[BrowserBase](https://www.browserbase.com/)** - Paid
-- **[APIFY](https://apify.com/)** - Paid
 
 ## 🪪 Web Authentication
 
