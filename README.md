@@ -6,6 +6,7 @@ A curated list of tools that empower AI agents to interact with the web efficien
 
 Cloud-hosted browsers designed for AI agents to interact with web pages seamlessly.
 
+- **[AgentQL](https://www.agentql.com/)** - Paid
 - **[Anchor Browser](https://anchorbrowser.io/)** - Paid
 - **[APIFY](https://apify.com/)** - Paid
 - **[Browserless](https://www.browserless.io/)** - Paid
