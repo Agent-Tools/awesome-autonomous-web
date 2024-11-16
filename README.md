@@ -2,6 +2,8 @@
 
 A curated list of tools that empower AI agents to interact with the web efficiently, from browsing to authentication, web crawling, and beyond.
 
+## ‼️ We have moved to - [agentic-tools.notion.site](https://agentic-tools.notion.site/)
+
 ## 💻 Browsers for AI
 
 Cloud-hosted browsers designed for AI agents to interact with web pages seamlessly.
