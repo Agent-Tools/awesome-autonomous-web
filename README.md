@@ -8,7 +8,7 @@ A curated list of tools that empower AI agents to interact with the web efficien
 
 Cloud-hosted browsers designed for AI agents to interact with web pages seamlessly.
 
-- **[Anchor Browser](https://anchorbrowser.io/)** - Paid
+- **[Anchor Browser](https://anchorbrowser.io/)** - Paid, first 2.00$ credits are free
 - **[APIFY](https://apify.com/)** - Paid
 - **[Browserless](https://www.browserless.io/)** - Paid
 - **[BrowserBase](https://www.browserbase.com/)** - Paid
