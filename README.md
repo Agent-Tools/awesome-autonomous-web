@@ -25,6 +25,7 @@ AI copilots that can autonomously navigate and interact with websites.
 
 - **[Multion](https://www.multion.ai/)** - Paid
 - **[Jace.AI](https://www.jace.ai/)** (Waitlist) - Paid
+- **[Crawl4ai](https://github.com/unclecode/crawl4ai) - Open Source
 
 ## 📝 AI Web automation tools
 
