@@ -37,6 +37,7 @@ Tools that convert natural language prompts into web interactions, allowing AI a
 - **[LaVague](https://github.com/lavague-ai/LaVague)** - control a web browser through natural language instructions using **text** language models - Open-source
 - **[Skyvern-AI](https://github.com/Skyvern-AI/skyvern)** - control a web browser through natural language instructions using **visual** language models - Open-source
 - **[Tarsier](https://github.com/reworkd/tarsier)** by Reworkd - Open-source
+- **[Browser-use](https://github.com/gregpr07/browser-use)** Interface between LLM and browser to execute high-level instructions - like applying for jobs
 
 ### Paid Platforms
 
