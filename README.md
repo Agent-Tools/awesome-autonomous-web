@@ -32,6 +32,7 @@ Tools that convert natural language prompts into web interactions, allowing AI a
 
 ### Open Source
 
+- **[Opperator](https://github.com/opper-ai/opper-webagent)** by Opper - Open-source, focused on automating web tasks from code
 - **[WebAgent](https://github.com/xlang-ai/OpenAgents/tree/main/real_agents/web_agent)** by OpenAgents - Open-source
 - **[Agent-E](https://github.com/EmergenceAI/Agent-E)** - Open-source
 - **[LaVague](https://github.com/lavague-ai/LaVague)** - control a web browser through natural language instructions using **text** language models - Open-source
