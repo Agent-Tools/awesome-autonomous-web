@@ -10,6 +10,7 @@ Cloud-hosted browsers designed for AI agents to interact with web pages seamless
 - **[APIFY](https://apify.com/)** - Paid
 - **[Browserless](https://www.browserless.io/)** - Paid
 - **[BrowserBase](https://www.browserbase.com/)** - Paid
+- **[Notte Browser](https://www.github.com/nottelabs/notte)** - Paid but opencore
 
 ## 🪪 Web Authentication
 
@@ -23,6 +24,7 @@ AI copilots that can autonomously navigate and interact with websites.
 
 - **[Multion](https://www.multion.ai/)** - Paid
 - **[Jace.AI](https://www.jace.ai/)** (Waitlist) - Paid
+- **[Notte Agent](https://www.github.com/nottelabs/notte)** - Paid but opencore
 
 ## 📝 AI Web automation tools
 
@@ -36,6 +38,7 @@ Tools that convert natural language prompts into web interactions, allowing AI a
 - **[Skyvern-AI](https://github.com/Skyvern-AI/skyvern)** - control a web browser through natural language instructions using **visual** language models - Open-source
 - **[Tarsier](https://github.com/reworkd/tarsier)** by Reworkd - Open-source
 - **[Browser-use](https://github.com/gregpr07/browser-use)** Interface between LLM and browser to execute high-level instructions - like applying for jobs
+- **[Notte Browser](https://www.github.com/nottelabs/notte)** - Notte is the fastest, most reliable framework for Browser Using Agents
 
 ### Paid Platforms
 
@@ -51,6 +54,7 @@ Tools that convert natural language prompts into web interactions, allowing AI a
 - **[WebCanvas](https://github.com/iMeanAI/WebCanvas)** - Open-source
 - **[WorkArena](https://github.com/ServiceNow/WorkArena)** - Open-source
 - **[Bananalyzer](https://github.com/reworkd/bananalyzer)** by Reworkd - Open-source
+- **[open-operator-evals](https://github.com/nottelabs/open-operator-evals)** - A set of webvoyager benchmarks on opensource web agents
 
 ## 🖼️ Visual web automation tools
 
@@ -65,6 +69,7 @@ AI-powered web crawlers designed to extract information and interact with websit
 
 - **[Reworkd](https://www.reworkd.ai/)** (Private beta) - Paid
 - **[FireCrawl](https://www.firecrawl.dev/)** - Paid
+- **[Notte Scaper](https://www.github.com/nottelabs/notte)** - Paid but opencore
 
 ## 🛠️ Graphql consumption tools
 
