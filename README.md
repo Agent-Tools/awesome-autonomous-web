@@ -10,6 +10,7 @@ Cloud-hosted browsers designed for AI agents to interact with web pages seamless
 - **[APIFY](https://apify.com/)** - Paid
 - **[Browserless](https://www.browserless.io/)** - Paid
 - **[BrowserBase](https://www.browserbase.com/)** - Paid
+- **[Scrapeless](https://www.scrapeless.com/en)** - Paid with $2.00 free credits
 
 ## 🪪 Web Authentication
 
