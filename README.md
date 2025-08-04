@@ -78,6 +78,7 @@ APIs and tools that assist in interacting with GraphQL endpoints for efficient d
 AI-powered tools designed for intelligent web searches and automated information gathering.
 
 - **[Serper.dev](https://serper.dev/)** - Paid
+- **[SearchApi](https://www.searchapi.io/)** - Paid, free 100 searches upon registration
 
 ## 🔓 Captcha solving tools
 
