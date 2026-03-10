@@ -36,6 +36,7 @@ Tools that convert natural language prompts into web interactions, allowing AI a
 - **[Skyvern-AI](https://github.com/Skyvern-AI/skyvern)** - control a web browser through natural language instructions using **visual** language models - Open-source
 - **[Tarsier](https://github.com/reworkd/tarsier)** by Reworkd - Open-source
 - **[Browser-use](https://github.com/gregpr07/browser-use)** Interface between LLM and browser to execute high-level instructions - like applying for jobs
+- **[Lumen](https://github.com/omxyz/lumen)** Vision-first browser agent with self-healing deterministic replay. Screenshot → model → action loop over CDP, multi-provider support - Open-source
 
 ### Paid Platforms
 
