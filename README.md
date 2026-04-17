@@ -122,6 +122,7 @@ Intelligent crawlers for data extraction at scale.
 - **[Crawlee](https://crawlee.dev/)** — Open-source web scraping and crawling library by APIFY. Supports Playwright, Puppeteer, Cheerio. Open-source.
 - **[Spider](https://spider.cloud/)** — Fast AI web crawler with agent mode. Paid.
 - **[Reworkd](https://www.reworkd.ai/)** — AI-driven data extraction pipelines. Paid.
+- **[Haunt API](https://hauntapi.com/)** — AI-powered web extraction API with Cloudflare bypass. Pay-per-use ($0.01/req), no monthly minimums. MCP server available. ([PyPI](https://pypi.org/project/hauntapi/)) ([npm](https://www.npmjs.com/package/@hauntapi/mcp-server))
 
 ---
 
