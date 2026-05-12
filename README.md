@@ -65,6 +65,14 @@ Tools and SDKs that power web automation with AI.
 
 ---
 
+## 🧭 Debugging & Trace Viewers
+
+Tools for inspecting and sharing AI browser-agent runs.
+
+- **[BrowserTrace](https://github.com/aaronlab/browsertrace)** — Local-first trace viewer for AI browser agents. Records screenshots, URLs, actions, model I/O, status, and errors; exports redacted standalone HTML traces. Open-source.
+
+---
+
 ## 🏢 Enterprise System Automation Packages
 
 Pre-built, open-source browser automation for enterprise platforms. Powered by Puppeteer and [Anchor Browser](https://anchorbrowser.io) cloud. Published as `@browser-automation-hub/*` npm packages.
