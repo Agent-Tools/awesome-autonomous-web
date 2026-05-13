@@ -13,6 +13,7 @@ Cloud-hosted and open-source browsers designed for AI agents.
 - **[Browserbase](https://www.browserbase.com/)** — Cloud browser platform with session replay, stealth mode, and Playwright/Puppeteer support. Paid.
 - **[Browserless](https://www.browserless.io/)** — Scalable headless Chrome in the cloud. Paid.
 - **[APIFY](https://apify.com/)** — Browser automation + web scraping platform. Paid.
+- **[invisible-playwright](https://github.com/feder-cr/invisible_playwright)** — Open-source patched Firefox 150 + Playwright wrapper. Source-level fingerprint spoofing via C++ patches against mozilla-central. Passes reCAPTCHA v3 and FingerprintPro without JS-level overrides. Self-hostable. MIT (wrapper) + MPL-2.0 (patches).
 
 ---
 
