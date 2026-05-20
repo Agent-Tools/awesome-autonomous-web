@@ -100,6 +100,7 @@ Datasets and leaderboards for evaluating web agents.
 - **[VisualWebArena](https://jykoh.com/vwa)** — Multimodal extension of WebArena with image-based tasks. Open-source.
 - **[WebCanvas](https://github.com/iMeanAI/WebCanvas)** — Online web agent evaluation with live environments. Open-source.
 - **[WorkArena](https://github.com/ServiceNow/WorkArena)** — Benchmark for enterprise web tasks (ServiceNow). Open-source.
+- **[ClawBench](https://github.com/reacher-z/ClawBench)** — 283 everyday tasks (V1 153 + V2 130) on live production sites; two-stage scoring (HTTP-request interception + LLM judge on intercepted payload). Live leaderboard at [claw-bench.com](https://claw-bench.com). Open-source.
 - **[Mind2Web](https://github.com/OSU-NLP-Group/Mind2Web)** — Cross-task, cross-website generalization benchmark. Open-source.
 - **[Bananalyzer](https://github.com/reworkd/bananalyzer)** by Reworkd — Web agent evaluation framework. Open-source.
 
