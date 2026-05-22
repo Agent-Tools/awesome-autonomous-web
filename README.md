@@ -61,6 +61,7 @@ Tools and SDKs that power web automation with AI.
 
 - **[Axiom.ai](https://axiom.ai/)** — No-code browser automation bots. Paid.
 - **[Browse.ai](https://browse.ai/)** — Extract and monitor web data without code. Paid.
+- **[Komos](https://www.komos.ai/browser-automation-tools)** — AI browser workflow automation platform for reusable task runs with API triggers, schedules, credentials, logs, and human review. Paid.
 - **[ZeroStep](https://zerostep.com/)** — AI-powered test automation using plain English assertions. Paid.
 
 ---
