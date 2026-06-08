@@ -31,6 +31,7 @@ Model Context Protocol servers that give LLMs (Claude, GPT-4, etc.) direct brows
 Tools that enable AI agents to access authenticated websites and sessions.
 
 - **[Anchor Browser](https://anchorbrowser.io/)** — Built-in MFA handling, cookie/session persistence, and fingerprint management for agents.
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** — On-chain wallet identity verification for AI agents on Solana. MCP tools verify agent trust score before x402 micropayments. Free: `score_agent(wallet)`, `preflight_check(wallet)`.
 
 ---
 
