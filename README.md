@@ -50,6 +50,7 @@ Tools and SDKs that power web automation with AI.
 ### Open Source
 
 - **[Stagehand](https://stagehand.dev/)** by Browserbase — AI-native browser automation SDK. Built on Playwright with `act()`, `extract()`, `observe()`, and `agent()` primitives. Works with Claude, GPT-4, Gemini. ([GitHub](https://github.com/browserbase/stagehand))
+- **[BrowserAct](https://github.com/browser-act/skills)** — Browser automation CLI and reusable skills for AI agents. Supports real browser sessions, screenshots/evidence capture, and human handoff for reliable web workflows. ([Website](https://www.browseract.com/))
 - **[Browser-use](https://github.com/browser-use/browser-use)** — Python library connecting LLMs to browser actions. High-level task interface over Playwright.
 - **[Skyvern-AI](https://github.com/Skyvern-AI/skyvern)** — Visual LLM-driven browser agent. Understands pages through screenshots rather than DOM.
 - **[Agent-E](https://github.com/EmergenceAI/Agent-E)** — Hierarchical AI agent for browser automation tasks.
