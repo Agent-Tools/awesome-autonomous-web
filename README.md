@@ -13,6 +13,7 @@ Cloud-hosted and open-source browsers designed for AI agents.
 - **[Browserbase](https://www.browserbase.com/)** — Cloud browser platform with session replay, stealth mode, and Playwright/Puppeteer support. Paid.
 - **[Browserless](https://www.browserless.io/)** — Scalable headless Chrome in the cloud. Paid.
 - **[APIFY](https://apify.com/)** — Browser automation + web scraping platform. Paid.
+- **[Agent Browser Shield](https://github.com/pixiebrix/agent-browser-shield)** — Open-source safety layer between browser-use AI agents and web pages. Masks PII/secrets, blocks prompt injection in invisible text and HTML comments, and strips dark patterns and noise to cut token use. Chromium extension, also on Browserbase. Free / source-available.
 
 ---
 
