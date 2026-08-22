@@ -122,6 +122,7 @@ Intelligent crawlers for data extraction at scale.
 - **[Crawlee](https://crawlee.dev/)** — Open-source web scraping and crawling library by APIFY. Supports Playwright, Puppeteer, Cheerio. Open-source.
 - **[Spider](https://spider.cloud/)** — Fast AI web crawler with agent mode. Paid.
 - **[Reworkd](https://www.reworkd.ai/)** — AI-driven data extraction pipelines. Paid.
+- **[Context.dev](https://www.context.dev/)** — Hosted web search, scraping, crawling, schema-based extraction, document parsing, monitoring, and batch APIs for AI agents. Paid (free tier).
 
 ---
 
