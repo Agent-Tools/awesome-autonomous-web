@@ -31,7 +31,7 @@ Model Context Protocol servers that give LLMs (Claude, GPT-4, etc.) direct brows
 Tools that enable AI agents to access authenticated websites and sessions.
 
 - **[Anchor Browser](https://anchorbrowser.io/)** — Built-in MFA handling, cookie/session persistence, and fingerprint management for agents.
-- **[Browser Cookie Bridge](https://github.com/aopv/browser-cookie-bridge)** — Open-source macOS utility for transferring signed-in sessions between local Chromium browsers and into ChatGPT Codex. Local-first, with no cloud relay. ([Website](https://cookiebridge.apoorvdarshan.com))
+- **[Browser Cookie Bridge](https://github.com/apoorvdarshan/browser-cookie-bridge)** — Open-source macOS utility for transferring signed-in sessions between local Chromium browsers and into ChatGPT Codex. Local-first, with no cloud relay. ([Website](https://cookiebridge.apoorvdarshan.com))
 
 ---
 
