@@ -57,6 +57,10 @@ Tools and SDKs that power web automation with AI.
 - **[Tarsier](https://github.com/reworkd/tarsier)** by Reworkd — Vision utilities for web agents (element tagging, OCR).
 - **[Notte](https://notte.cc/)** — Framework for building web agents with planning, vision, and LLM reasoning.
 
+### Source-available
+
+- **[Agent QA](https://github.com/vostride/agent-qa)** — Authors and runs natural-language web application regression tests with deterministic checks, optional LLM-based grading, and reviewable run evidence. FSL-1.1-ALv2; each release converts to Apache-2.0 after two years.
+
 ### Paid Platforms
 
 - **[Axiom.ai](https://axiom.ai/)** — No-code browser automation bots. Paid.
