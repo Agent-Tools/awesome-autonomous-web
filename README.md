@@ -31,6 +31,7 @@ Model Context Protocol servers that give LLMs (Claude, GPT-4, etc.) direct brows
 Tools that enable AI agents to access authenticated websites and sessions.
 
 - **[Anchor Browser](https://anchorbrowser.io/)** — Built-in MFA handling, cookie/session persistence, and fingerprint management for agents.
+- **[browser-bridge](https://github.com/1clawAI/browser-bridge)** — Governed credential fill: the bridge logs into sites in a page the agent never scripts, so the agent drives authenticated sessions without ever seeing the password. Also handles sign-up and API-key capture. Open source (Apache-2.0), speaks CDP, exposes MCP tools.
 
 ---
 
