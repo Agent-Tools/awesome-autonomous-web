@@ -40,6 +40,7 @@ Autonomous AI agents that navigate and complete tasks on the web.
 
 - **[Please (formerly MultiOn)](https://please.ai/)** — Consumer AI agent for web tasks (travel booking, forms, shopping). Rebranded from MultiOn in 2025.
 - **[Jace.AI](https://www.jace.ai/)** — AI agent for complex multi-step web workflows. Paid.
+- **[Jev Social](https://github.com/socai-io/jev-social)** — Open-source local agent where Jev selects bounded socai CLI operations in a real Chrome session and streams Instagram, TikTok, and LinkedIn evidence into cited research reports.
 
 ---
 
