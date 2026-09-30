@@ -22,7 +22,7 @@ Model Context Protocol servers that give LLMs (Claude, GPT-4, etc.) direct brows
 
 - **[Playwright MCP](https://playwright.dev/agents)** — Official Playwright MCP server. Uses accessibility snapshots (not screenshots) for fast, reliable LLM-driven automation. Open-source.
 - **[Steel MCP Server](https://github.com/steel-dev/steel-mcp-server)** — Puppeteer-based MCP server backed by Steel cloud or local Docker. Open-source.
-- **[Vend API Merchant (MCP)](https://extract.paypercall.dev/.well-known/x402)** — Pay-per-call web-data API settled in Nano (XNO) via the x402 402-challenge. 8 tools: extract, web search, link check, URL status, domain info, geoip, Nano account info, YouTube transcript. No API key, no signup. Remote, streaming HTTP.
+- **[Vend API Merchant (MCP)](https://extract.paypercall.dev/.well-known/x402)** — Pay-per-call web-data API settled in Nano (XNO) via the x402 402-challenge. 9 tools: extract, web search, link check, URL status, domain info, geoip, Nano account info, YouTube transcript, MCP finder; plus semantic search over HTTP at `search.paypercall.dev/api/v1/neural-search`. No API key, no signup. Remote, streaming HTTP.
 - **[Anchor Browser MCP](https://anchorbrowser.io/)** — MCP server for Anchor Browser cloud sessions. Handles auth, CAPTCHAs, and concurrent sessions.
 
 ---
