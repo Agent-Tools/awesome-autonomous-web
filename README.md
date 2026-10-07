@@ -9,6 +9,7 @@ A curated list of tools that empower AI agents to interact with the web — from
 Cloud-hosted and open-source browsers designed for AI agents.
 
 - **[Anchor Browser](https://anchorbrowser.io/)** — Cloud browser built for AI agents. Handles sessions, CAPTCHAs, MFA, and proxies automatically. Free tier available.
+- **[Scalebrowser](https://scalebrowser.net/)** - Scalebrowser runs persistent browser profiles on your own machines so AI agents stay signed in, pass verification, and finish real work.
 - **[Steel](https://steel.dev/)** — Open-source headless browser API for AI agents. Self-hostable or cloud. 6k+ GitHub stars. ([GitHub](https://github.com/steel-dev/steel))
 - **[Browserbase](https://www.browserbase.com/)** — Cloud browser platform with session replay, stealth mode, and Playwright/Puppeteer support. Paid.
 - **[Browserless](https://www.browserless.io/)** — Scalable headless Chrome in the cloud. Paid.
