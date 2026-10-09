@@ -12,6 +12,7 @@ Cloud-hosted and open-source browsers designed for AI agents.
 - **[Steel](https://steel.dev/)** — Open-source headless browser API for AI agents. Self-hostable or cloud. 6k+ GitHub stars. ([GitHub](https://github.com/steel-dev/steel))
 - **[Browserbase](https://www.browserbase.com/)** — Cloud browser platform with session replay, stealth mode, and Playwright/Puppeteer support. Paid.
 - **[Browserless](https://www.browserless.io/)** — Scalable headless Chrome in the cloud. Paid.
+- **[Agent Browser](https://github.com/vercel-labs/agent-browser)** — Fast browser automation CLI for AI agents with semantic snapshots, session persistence, and MCP support.
 - **[APIFY](https://apify.com/)** — Browser automation + web scraping platform. Paid.
 
 ---
