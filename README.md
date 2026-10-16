@@ -23,6 +23,7 @@ Model Context Protocol servers that give LLMs (Claude, GPT-4, etc.) direct brows
 - **[Playwright MCP](https://playwright.dev/agents)** — Official Playwright MCP server. Uses accessibility snapshots (not screenshots) for fast, reliable LLM-driven automation. Open-source.
 - **[Steel MCP Server](https://github.com/steel-dev/steel-mcp-server)** — Puppeteer-based MCP server backed by Steel cloud or local Docker. Open-source.
 - **[Anchor Browser MCP](https://anchorbrowser.io/)** — MCP server for Anchor Browser cloud sessions. Handles auth, CAPTCHAs, and concurrent sessions.
+- **[rea-captcha](https://github.com/masakaai/rea-captcha)** — Local MCP server and SDK that pauses browser agents when CAPTCHA blocks them, keeps the existing Playwright/CDP session through a human or authorized test handoff, and validates fresh evidence before resuming. Open-source.
 
 ---
 
