@@ -23,6 +23,7 @@ Model Context Protocol servers that give LLMs (Claude, GPT-4, etc.) direct brows
 - **[Playwright MCP](https://playwright.dev/agents)** — Official Playwright MCP server. Uses accessibility snapshots (not screenshots) for fast, reliable LLM-driven automation. Open-source.
 - **[Steel MCP Server](https://github.com/steel-dev/steel-mcp-server)** — Puppeteer-based MCP server backed by Steel cloud or local Docker. Open-source.
 - **[Anchor Browser MCP](https://anchorbrowser.io/)** — MCP server for Anchor Browser cloud sessions. Handles auth, CAPTCHAs, and concurrent sessions.
+- **[CurlShot](https://curlshot.com/docs/guides/ai-agents)** — Hosted MCP server (`take_screenshot`, `list_devices`) and REST API that let an agent see any URL, HTML or Markdown as a PNG, JPEG, WebP or PDF screenshot, full page or on a phone or tablet. Captures pages only; no clicking or form filling. Free tier available.
 
 ---
 
