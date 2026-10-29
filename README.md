@@ -102,6 +102,7 @@ Datasets and leaderboards for evaluating web agents.
 - **[WorkArena](https://github.com/ServiceNow/WorkArena)** — Benchmark for enterprise web tasks (ServiceNow). Open-source.
 - **[Mind2Web](https://github.com/OSU-NLP-Group/Mind2Web)** — Cross-task, cross-website generalization benchmark. Open-source.
 - **[Bananalyzer](https://github.com/reworkd/bananalyzer)** by Reworkd — Web agent evaluation framework. Open-source.
+- **[Next-Gen CAPTCHAs](https://arxiv.org/abs/2602.09012)** — CAPTCHA generation framework and benchmark for evaluating web GUI agents. ([GitHub](https://github.com/MetaAgentX/NextGen-CAPTCHAs); [project page](https://jiachengliu12345.github.io/NextGen-CAPTCHAs_webpage/))
 
 ---
 
