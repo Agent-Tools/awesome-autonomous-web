@@ -134,6 +134,8 @@ Search APIs for giving agents real-time web access.
 - **[Serper.dev](https://serper.dev/)** — Google Search API for AI agents. Paid.
 - **[Brave Search API](https://brave.com/search/api/)** — Independent search index with AI-ready API. Paid (free tier).
 
+- **[FlashData Google Search API](https://flashdata.dev/docs/sources/google_search)** — REST API for structured Google search results in agent workflows. API key required. Paid Credits.
+
 ---
 
 ## 🔓 CAPTCHA Solving
