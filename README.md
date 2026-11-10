@@ -134,6 +134,16 @@ Search APIs for giving agents real-time web access.
 - **[Serper.dev](https://serper.dev/)** — Google Search API for AI agents. Paid.
 - **[Brave Search API](https://brave.com/search/api/)** — Independent search index with AI-ready API. Paid (free tier).
 
+- **[Google Images API by FlashData](https://flashdata.dev/docs/sources/google_images)** — Image search result references and URLs for visual search research; not image file delivery. API key required; paid Credits.
+- **[Google News API by FlashData](https://flashdata.dev/docs/sources/google_news)** — News search result links and available metadata for topic research; not article full text. API key required; paid Credits.
+- **[Google Places API by FlashData](https://flashdata.dev/docs/sources/google_places)** — Place search results and available business details for local research; contact fields may be absent. API key required; paid Credits.
+- **[Google Search API by FlashData](https://flashdata.dev/docs/sources/google_search)** — Structured Google search results for SEO and research. API key required; paid Credits.
+- **[Google Shopping API by FlashData](https://flashdata.dev/docs/sources/google_shopping)** — Shopping search results and available offer fields for product research; no stock or checkout-price guarantee. API key required; paid Credits.
+- **[Google Videos API by FlashData](https://flashdata.dev/docs/sources/google_videos)** — Google video search result links and available metadata for video research. API key required; paid Credits.
+- **[YouTube Extended Search API by FlashData](https://flashdata.dev/docs/sources/youtube_search_extended)** — YouTube video search results with a requested limit up to 700; fewer results may be available and pricing differs from standard search. API key required; paid Credits.
+- **[YouTube Search API by FlashData](https://flashdata.dev/docs/sources/youtube_search)** — YouTube video search results for topic research, with a requested limit up to 20; result count is not guaranteed. API key required; paid Credits.
+- **[YouTube Suggestions API by FlashData](https://flashdata.dev/docs/sources/youtube_suggestions)** — YouTube autocomplete suggestions for keyword and topic research. API key required; paid Credits.
+
 ---
 
 ## 🔓 CAPTCHA Solving
