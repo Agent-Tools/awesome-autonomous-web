@@ -13,6 +13,7 @@ Cloud-hosted and open-source browsers designed for AI agents.
 - **[Browserbase](https://www.browserbase.com/)** — Cloud browser platform with session replay, stealth mode, and Playwright/Puppeteer support. Paid.
 - **[Browserless](https://www.browserless.io/)** — Scalable headless Chrome in the cloud. Paid.
 - **[APIFY](https://apify.com/)** — Browser automation + web scraping platform. Paid.
+- **[easi.run](https://easi.run)** - Self-hosted Chrome for AI agents via MCP or REST, with a live viewer and human takeover for logins and approvals. AGPL-3.0-only; own server and agent/model costs are separate. ([GitHub](https://github.com/julianosig/easi.run))
 
 ---
 
