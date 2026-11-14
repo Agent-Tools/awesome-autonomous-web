@@ -120,6 +120,7 @@ Intelligent crawlers for data extraction at scale.
 
 - **[FireCrawl](https://www.firecrawl.dev/)** — LLM-ready web crawling and scraping with Markdown output. Paid.
 - **[Crawlee](https://crawlee.dev/)** — Open-source web scraping and crawling library by APIFY. Supports Playwright, Puppeteer, Cheerio. Open-source.
+- **[Huntsman](https://github.com/TulipFarm/huntsman)** — Self-hosted scraper that turns any page into clean Markdown behind a Firecrawl-compatible API, with 4× the pages per second of Firecrawl on the same 8-vCPU machine. Open-source.
 - **[Spider](https://spider.cloud/)** — Fast AI web crawler with agent mode. Paid.
 - **[Reworkd](https://www.reworkd.ai/)** — AI-driven data extraction pipelines. Paid.
 
