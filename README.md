@@ -151,6 +151,10 @@ Tools for AI agents to handle CAPTCHAs and bot detection.
 - **[GraphQL.Chat](https://graphql.chat/)** — Explore and query GraphQL APIs with natural language. Free, closed source.
 - **[GQLPT.dev](https://gqlpt.dev/)** — Generate GraphQL queries from plain text. Free, closed source.
 
+## 🎵 Vertical MCP Data Endpoints
+
+- **[No Stairs Please MCP](https://nostairsplease.com/mcp)** — Read-only MCP server covering small live music venues in all 50 US states and who books them ([nostairsplease.com](https://nostairsplease.com/)).
+
 ---
 
 *Feel free to open a PR to add tools or update descriptions. This list is maintained by the community.*
